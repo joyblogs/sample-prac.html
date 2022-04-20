@@ -12,7 +12,15 @@
 .nav-bar{display:flex  ;
 padding: 40px 120px;}
 
-.nav-logo img{width: 100px;}
+.nav-logo img{width: 100px;
+    position:absolute; 
+    top:45px; 
+    right:90px; 
+    width:80px; 
+    height:80px;
+    
+
+}
 
 .nav-links ul{margin-left:50px;
 display: inline;}
